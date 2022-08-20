@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    background-color: rgb(56, 52, 52);
+}
+
+#cabecalho{
+    background-image: url(images/codigo9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    height: 350px;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 32px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#titulo{
+    color: #00a0a0;
+    background-color: rgb(56, 52, 52);
+    width: fit-content;
+    margin-left: 125px;
+    padding: 15px;
+}
+
+#descricao{
+    color: #00a0a0;
+    background-color: rgb(56, 52, 52);
+    width: fit-content;
+    padding: 15px;
+}
+
+
