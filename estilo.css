@@ -92,12 +92,30 @@ header {
   margin: 20px;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .display_projeto > img {
   width: 300px;
   height: 170px;
   margin: 10px;
+}
+
+.display_projeto > a{
+  margin: 10px;
+  text-decoration: none;
+  color: #0a4242;
+  background-color: #00a0a0;
+  width: 76px;
+  font-size: 26px;
+  padding: 10px;
+  text-align: center;
+}
+
+.display_projeto > p{
+  color: #0a4242;
+  text-align: center;
+  height: 130px;
 }
 
 .titulo_software{
